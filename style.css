@@ -1,0 +1,71 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.set-1 
+{
+   
+    text-align: center;
+    border-radius: 5px;
+    margin: 15% 15%;
+    border-radius: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+table
+{
+    color: rgb(231, 238, 234);
+    margin-left: 1%;
+    margin-top: 4%;
+    
+    width: 600px;
+    text-align: center;
+    padding: 20px 40px;
+    font-size: 16px;
+    cursor: pointer;
+
+
+}
+.n1
+{
+    background-color: rgb(141, 94, 6);
+}
+.n2
+{
+    background-color: rgb(18, 158, 100)
+}
+
+.n3
+{
+    background-color: rgb(209, 17, 81);
+}
+.n4
+{
+    background-color: rgb(255, 0, 0);
+}
+.n5
+{
+    background-color: rgb(2, 25, 74);
+}
+.n6
+{
+    background-color: rgb(205, 219, 9);
+}
+.n7
+{
+    background-color: orangered;
+}
+.n8
+{
+    background-color: rgb(16, 177, 231);
+}
+.n9
+{
+    background-color: rgb(68, 4, 39);
+}
+h2 a:hover
+{
+    color: rgb(33, 85, 12);
+}
